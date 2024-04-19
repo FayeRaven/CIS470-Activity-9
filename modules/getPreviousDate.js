@@ -18,4 +18,4 @@ function getPreviousDate(month, day, year) {
     }
 }
 
-module.exports = getNextDate;
+module.exports = getPreviousDate;
